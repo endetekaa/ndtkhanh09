@@ -34,7 +34,21 @@ Apr 2022 - May 2023
 - Maintained Power BI dashboards to track manufacturing performance (savings, RPM waste and line efficiency) 
 - Implemented SPC (Statistical Process Control) global app to monitor machines’ stability and reduce quality defects
 
-**CERTIFICATES**
+**CERTIFICATES**   
+*VILAS (Vietnam Logistics and Aviation School)*
+February 2024  
+**Supply Chain Executive Course**  
+[VILAS] (https://bit.ly/SCE1123)  
+
+*HackerRank*  
+September 2023  
+**SQL: Advanced**  
+[HackerRank] (https://www.hackerrank.com/certificates/ddd267bb5c50)  
+
+*British Council*  
+November 2021  
+**English: IELTS Academic**  
+Overall: 8.0  
 
 **PROJECTS**  
 _**Sales and Supply Chain Analytics Dashboard - The Analyst Challenge 2025**_  
@@ -48,6 +62,6 @@ sales regions to uncover insights and create interactive reports using Power BI.
 ![Power BI dashboard UI 1](/images/Dashboard UI page 1.png)
 ![Power BI dashboard UI 2](/images/Dashboard UI page 2.png)
 ![Power BI dashboard UI 3](/images/Dashboard UI page 3.png)  
-![Power BI dashboard UI 3](/images/Dashboard UI page 4.png)  
+![Power BI dashboard UI 4](/images/Dashboard UI page 4.png)  
 
 **Key insights from this dashboard:** [MAZ Key Insights](files/MAZ DA CHALLENGE - NDTKHANH.pdf)
