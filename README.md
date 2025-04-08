@@ -44,9 +44,10 @@ management, enabling them to optimize supply chain efficiency and improve strate
 The competitors are required to work with work with this real-world dataset on orders, customers, products, and
 sales regions to uncover insights and create interactive reports using Power BI.  
 
-**My dashboard UI:   **
+**My dashboard UI:**
 ![Power BI dashboard UI 1](/images/Dashboard UI page 1.png)
 ![Power BI dashboard UI 2](/images/Dashboard UI page 2.png)
 ![Power BI dashboard UI 3](/images/Dashboard UI page 3.png)  
+![Power BI dashboard UI 3](/images/Dashboard UI page 4.png)  
 
 **Key insights from this dashboard:** [MAZ Key Insights](files/MAZ DA CHALLENGE - NDTKHANH.pdf)
