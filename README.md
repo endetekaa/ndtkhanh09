@@ -1,3 +1,8 @@
+---
+layout: default
+title: Certificate Page
+---
+
 ### EDUCATION
 **VNU HCM - Bach Khoa University of Technology**  
 Aug 2024 - Present
