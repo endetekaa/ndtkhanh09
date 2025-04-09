@@ -34,8 +34,8 @@ Apr 2022 - May 2023
 - Maintained Power BI dashboards to track manufacturing performance (savings, RPM waste and line efficiency) 
 - Implemented SPC (Statistical Process Control) global app to monitor machines’ stability and reduce quality defects
 
-**CERTIFICATES**  
-   
+**CERTIFICATES**   
+
 **Supply Chain Executive Course**  
 *VILAS (Vietnam Logistics and Aviation School)*   
 February 2024  
