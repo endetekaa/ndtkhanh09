@@ -11,7 +11,7 @@ September 2017 - March 2022
 
 ### PROFESSIONAL EXPERIENCE
 
-**Process Engineeer (Packing) cum Project Coordinator (Customer Service & Logistics)**  
+**Process Engineer (Packing) cum Project Coordinator (Customer Service & Logistics)**  
 *Unilever*  
 May 2023 - May 2024  
 *Skills: Microsoft Power Automate, Power Query, Digital Product Development Process*  
@@ -37,14 +37,14 @@ Apr 2022 - May 2023
 **CERTIFICATES**  
    
 **Supply Chain Executive Course**  
-*VILAS (Vietnam Logistics and Aviation School)*  
+*VILAS (Vietnam Logistics and Aviation School)*   
 February 2024  
-[VILAS](https://bit.ly/SCE1123)  
+[VILAS Certificate](https://bit.ly/SCE1123)  
 
 **SQL: Advanced**  
 *HackerRank*  
 September 2023    
-[HackerRank](https://www.hackerrank.com/certificates/ddd267bb5c50)  
+[HackerRank Certificate](https://www.hackerrank.com/certificates/ddd267bb5c50)  
 
 **English: IELTS Academic**  
 *British Council*  
@@ -60,7 +60,7 @@ The competitors are required to work with work with this real-world dataset on o
 sales regions to uncover insights and create interactive reports using Power BI.  
 
 **My dashboard UI:**
-![Power BI dashboard UI 1](images/merge2.png)
-![Power BI dashboard UI 2](/images/Dashboard UI page 2.png)
+![Power BI dashboard UI 1](images/test1.drawio.png)
+![Power BI dashboard UI 2](images/merge2.png)
 
 **Key insights from this dashboard:** [MAZ Key Insights](files/MAZ DA CHALLENGE - NDTKHANH.pdf)
