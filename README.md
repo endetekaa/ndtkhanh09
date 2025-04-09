@@ -52,6 +52,7 @@ November 2021
 Overall: 8.0  
 
 **PROJECTS**  
+  
 _**Sales and Supply Chain Analytics Dashboard - The Analyst Challenge 2025**_  
 The dataset, consists of 29 columns and 9994 records, provides detailed information on supply chain operations and sales
 performance for a retail company. It is designed to help businesses analyze order processing, logistics, delivery performance, return rates, and customer
