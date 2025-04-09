@@ -44,7 +44,6 @@ February 2024
 **SQL: Advanced**  
 *HackerRank*  
 September 2023  
-
 [HackerRank Certificate](https://www.hackerrank.com/certificates/ddd267bb5c50)  
 
 **English: IELTS Academic**  
