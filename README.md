@@ -53,13 +53,13 @@ Overall: 8.0
 
 **PROJECTS**  
   
-_**Sales and Supply Chain Analytics Dashboard - The Analyst Challenge 2025**_  
+_**Sales and Supply Chain Analytics Dashboard - Top 14 The Analyst Challenge 2025**_  
 The dataset, consists of 29 columns and 9994 records, provides detailed information on supply chain operations and sales
 performance for a retail company. It is designed to help businesses analyze order processing, logistics, delivery performance, return rates, and customer
 management, enabling them to optimize supply chain efficiency and improve strategic planning.
 The competitors are required to work with work with this real-world dataset on orders, customers, products, and
 sales regions to uncover insights and create interactive reports using Power BI.  
-
+This dashboard has been selected as one of top 14 in this challenge out of nearly 50 dashboards submitted to this challenge.
 **My dashboard UI:**
 ![Power BI dashboard UI 1](images/test1.drawio.png)
 ![Power BI dashboard UI 2](images/merge2.png)
