@@ -1,17 +1,17 @@
-### EDUCATION
-**VNU HCM - Bach Khoa University of Technology**  
+# EDUCATION
+## VNU HCM - Bach Khoa University of Technology  
 Aug 2024 - Present
 - Master’s Degree, Computer Science
 - Cumulative GPA: 7.55/10
 
-**VNU HCM - International University**   
+## VNU HCM - International University  
 September 2017 - March 2022
 - Bachelor’s Degree, Food Technology
 - GPA: 8.34/10  
 
-### PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 
-**Process Engineer (Packing) cum Project Coordinator (Customer Service & Logistics)**  
+## Process Engineer (Packing) cum Project Coordinator (Customer Service & Logistics)  
 *Unilever*  
 May 2023 - May 2024  
 *Skills: Microsoft Power Automate, Power Query, Digital Product Development Process*  
@@ -20,7 +20,7 @@ May 2023 - May 2024
 - Analyzed and visualized Power BI dashboard for warehouse & logistics activities (inbound & outbound truck tracking, delivery status, materials readiness)
 - Input and consolidated flows of production and scheduling as requirements for development of the AI-powered production scheduling optimizer
 
-**Management Trainee - Supply Chain (Make)**  
+## Management Trainee - Supply Chain (Make)  
 *Unilever*  
 Apr 2022 - May 2023  
 **1st rotation (4 months): Category & Customer Development - E-commerce**  
@@ -34,19 +34,19 @@ Apr 2022 - May 2023
 - Maintained Power BI dashboards to track manufacturing performance (savings, RPM waste and line efficiency) 
 - Implemented SPC (Statistical Process Control) global app to monitor machines’ stability and reduce quality defects
 
-**CERTIFICATES**  
+# CERTIFICATES    
    
-**Supply Chain Executive Course**  
+## Supply Chain Executive Course  
 *VILAS (Vietnam Logistics and Aviation School)*   
 February 2024  
 [VILAS Certificate](https://bit.ly/SCE1123)  
 
-**SQL: Advanced**  
+## SQL: Advanced   
 *HackerRank*  
 September 2023    
 [HackerRank Certificate](https://www.hackerrank.com/certificates/ddd267bb5c50)  
 
-**English: IELTS Academic**  
+## English: IELTS Academic  
 *British Council*  
 November 2021  
 Overall: 8.0  
