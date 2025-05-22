@@ -52,7 +52,7 @@ November 2021
 Overall: 8.0  
 
 **PROJECTS**  
-_**Sales and Supply Chain Analytics Dashboard - Top 14 The Analyst Challenge 2025**_  
+**1. Sales and Supply Chain Analytics Dashboard - Top 14 The Analyst Challenge 2025**  
 The dataset, consists of 29 columns and 9994 records, provides detailed information on supply chain operations and sales
 performance for a retail company. It is designed to help businesses analyze order processing, logistics, delivery performance, return rates, and customer management, enabling them to optimize supply chain efficiency and improve strategic planning.
 The competitors are required to work with work with this real-world dataset on orders, customers, products, and
@@ -64,18 +64,18 @@ This dashboard has been selected as one of top 14 in this challenge out of nearl
 
 **Key insights from this dashboard:** [MAZ Key Insights](files/MAZ DA CHALLENGE - NDTKHANH.pdf)  
  
-_**EDA with Python**_
+**2. EDA with Python**    
 Conducted EDA (Exploratory Data Analysis) on 4 datasets:  
-**1. Titanic:**  
+_**1. Titanic:**_  
 - Description: A classic dataset from the Kaggle competition, derived from passenger data on the Titanic.  
-- Contents: Information such as passenger class, sex, age, family relations aboard, fare paid, and survival status.
-**2. Veri776:**
+- Contents: Information such as passenger class, sex, age, family relations aboard, fare paid, and survival status.  
+_**2. Veri776:**_  
 - Description: A large-scale vehicle re-identification dataset for multi-camera vehicle tracking.  
 - Contents: 776 vehicles with over 50,000 images captured from 20 cameras, annotated with vehicle ID, camera ID, and attributes like color and type.  
-**3. BBC News:**  
+_**3. BBC News:**_    
 - Description: A text classification dataset containing news articles from the BBC across 5 categories.  
 - Contents: 2,225 news documents labeled under categories: business, entertainment, politics, sport, and tech.  
-**4. Flickr30k**:  
+_**4. Flickr30k**:_   
 - Description: A large-scale image–text dataset designed for multimodal learning tasks.  
 - Contents: 31,000 images collected from Flickr, each paired with 5 human-annotated textual descriptions.  
 After EDA, machine learning/ deep learning models were applied to perform classification/ image retrieval (Flickr30k) tasks.  
