@@ -34,8 +34,8 @@ Apr 2022 - May 2023
 - Maintained Power BI dashboards to track manufacturing performance (savings, RPM waste and line efficiency) 
 - Implemented SPC (Statistical Process Control) global app to monitor machines’ stability and reduce quality defects
 
-**CERTIFICATES**   
-
+**CERTIFICATES**  
+   
 **Supply Chain Executive Course**  
 *VILAS (Vietnam Logistics and Aviation School)*   
 February 2024  
@@ -43,7 +43,7 @@ February 2024
 
 **SQL: Advanced**  
 *HackerRank*  
-September 2023  
+September 2023    
 [HackerRank Certificate](https://www.hackerrank.com/certificates/ddd267bb5c50)  
 
 **English: IELTS Academic**  
@@ -52,16 +52,36 @@ November 2021
 Overall: 8.0  
 
 **PROJECTS**  
-  
 _**Sales and Supply Chain Analytics Dashboard - Top 14 The Analyst Challenge 2025**_  
 The dataset, consists of 29 columns and 9994 records, provides detailed information on supply chain operations and sales
-performance for a retail company. It is designed to help businesses analyze order processing, logistics, delivery performance, return rates, and customer
-management, enabling them to optimize supply chain efficiency and improve strategic planning.
+performance for a retail company. It is designed to help businesses analyze order processing, logistics, delivery performance, return rates, and customer management, enabling them to optimize supply chain efficiency and improve strategic planning.
 The competitors are required to work with work with this real-world dataset on orders, customers, products, and
-sales regions to uncover insights and create interactive reports using Power BI.  
-This dashboard has been selected as one of top 14 in this challenge out of nearly 50 dashboards submitted to this challenge.
+sales regions to uncover insights and create interactive reports using Power BI.    
+This dashboard has been selected as one of top 14 in this challenge out of nearly 50 dashboards submitted to this challenge.  
 **My dashboard UI:**
 ![Power BI dashboard UI 1](images/test1.drawio.png)
 ![Power BI dashboard UI 2](images/merge2.png)
 
-**Key insights from this dashboard:** [MAZ Key Insights](files/MAZ DA CHALLENGE - NDTKHANH.pdf)
+**Key insights from this dashboard:** [MAZ Key Insights](files/MAZ DA CHALLENGE - NDTKHANH.pdf)  
+ 
+_**EDA with Python**_
+Conducted EDA (Exploratory Data Analysis) on 4 datasets:  
+**1. Titanic:**  
+- Description: A classic dataset from the Kaggle competition, derived from passenger data on the Titanic.  
+- Contents: Information such as passenger class, sex, age, family relations aboard, fare paid, and survival status.
+**2. Veri776:**
+- Description: A large-scale vehicle re-identification dataset for multi-camera vehicle tracking.  
+- Contents: 776 vehicles with over 50,000 images captured from 20 cameras, annotated with vehicle ID, camera ID, and attributes like color and type.  
+**3. BBC News:**  
+- Description: A text classification dataset containing news articles from the BBC across 5 categories.  
+- Contents: 2,225 news documents labeled under categories: business, entertainment, politics, sport, and tech.  
+**4. Flickr30k**:  
+- Description: A large-scale image–text dataset designed for multimodal learning tasks.  
+- Contents: 31,000 images collected from Flickr, each paired with 5 human-annotated textual descriptions.  
+After EDA, machine learning/ deep learning models were applied to perform classification/ image retrieval (Flickr30k) tasks.  
+
+**Link to project**:   
+![EDA_Python](https://github.com/endetekaa/Python_EDA_practice)
+
+
+
