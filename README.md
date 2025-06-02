@@ -23,7 +23,7 @@ May 2023 - May 2024
 ## Management Trainee – Supply Chain (Manufacturing)  
 *Unilever*    
 March 2022 – May 2023  
-**Skills**: Data Analysis, Robotic Process Automation (Power Automate), Statistical Process Control  
+*Skills: Data Analysis, Robotic Process Automation (Power Automate), Statistical Process Control*    
 
 **1st rotation (4 months): Category & Customer Development – E-commerce**  
 - Determined job-to-be-done for promotion gift of all categories from customers’ sellout data  
