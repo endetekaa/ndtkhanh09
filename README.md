@@ -21,7 +21,7 @@ May 2023 - May 2024
 - Input and consolidated flows of production and scheduling as requirements for development of the AI-powered production scheduling optimizer  
  
 ## Management Trainee – Supply Chain (Manufacturing)  
-**Unilever**  
+*Unilever*    
 March 2022 – May 2023  
 **Skills**: Data Analysis, Robotic Process Automation (Power Automate), Statistical Process Control  
 
