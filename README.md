@@ -19,22 +19,20 @@ May 2023 - May 2024
 *Skills: Data Visualization, Digital Product Development Process*  
 - Analyzed and built Power BI dashboards to monitor plant’s KPIs (OEE, raw-packaging-material waste, working compliances), warehouse & logistics activities (inbound & outbound truck tracking, delivery status, materials readiness)  
 - Input and consolidated flows of production and scheduling as requirements for development of the AI-powered production scheduling optimizer  
-
-## Management Trainee - Supply Chain (Manufacturing)  
-*Unilever*  
-Apr 2022 - May 2023  
-*Skills:  Data Analysis, Robotic Process Automation (Power Automate), Statistical Process
- Control*  
-**1st rotation (4 months): Category & Customer Development - E-commerce**  
-- Determined job-to-be-done for promotion gift of all categories from customers’
- sellout data  
--  Tracked and analyzed the flow of promotion gift stock and spending for each
- customer and category from inbound and outbound stock reports   
-
-**2nd rotation (9 months): Manufacturing Excellence - Nutrition plant**  
-- Maintained Power BI dashboards to track manufacturing performance (savings, RPM waste and line efficiency) 
-- Implemented SPC (Statistical Process Control) global app to monitor machines’ stability and reduce quality defects 
  
+### Management Trainee – Supply Chain (Manufacturing)  
+**Unilever**  
+Apr 2022 – May 2023  
+**Skills**: Data Analysis, Robotic Process Automation (Power Automate), Statistical Process Control  
+
+**1st rotation (4 months): Category & Customer Development – E-commerce**  
+- Determined job-to-be-done for promotion gift of all categories from customers’ sellout data  
+- Tracked and analyzed the flow of promotion gift stock and spending for each customer and category from inbound and outbound stock reports  
+
+**2nd rotation (9 months): Manufacturing Excellence – Nutrition plant**  
+*Skills: Microsoft Power BI, DAX, Statistical Process Control*  
+- Maintained Power BI dashboards to track manufacturing performance (savings, RPM waste and line efficiency)  
+- Implemented SPC (Statistical Process Control) global app to monitor machines’ stability and reduce quality defects  
 
 # CERTIFICATES    
    
