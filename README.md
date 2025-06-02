@@ -1,6 +1,6 @@
 # EDUCATION
 ## VNU HCM - Bach Khoa University of Technology  
-Aug 2024 - Present
+August 2024 - Present
 - Master’s Degree, Computer Science
 - Cumulative GPA: 7.74/10  
 - Coursework: Advanced Algorithms, Machine Learning Fundamentals and
@@ -20,9 +20,9 @@ May 2023 - May 2024
 - Analyzed and built Power BI dashboards to monitor plant’s KPIs (OEE, raw-packaging-material waste, working compliances), warehouse & logistics activities (inbound & outbound truck tracking, delivery status, materials readiness)  
 - Input and consolidated flows of production and scheduling as requirements for development of the AI-powered production scheduling optimizer  
  
-### Management Trainee – Supply Chain (Manufacturing)  
+## Management Trainee – Supply Chain (Manufacturing)  
 **Unilever**  
-Apr 2022 – May 2023  
+March 2022 – May 2023  
 **Skills**: Data Analysis, Robotic Process Automation (Power Automate), Statistical Process Control  
 
 **1st rotation (4 months): Category & Customer Development – E-commerce**  
