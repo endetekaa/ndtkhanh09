@@ -2,7 +2,7 @@
 ## VNU HCM - Bach Khoa University of Technology  
 August 2024 - Present
 - Master’s Degree, Computer Science
-- Cumulative GPA: 7.74/10  
+- Cumulative GPA: 7.82/10  
 - Coursework: Advanced Algorithms, Machine Learning Fundamentals and
  Application, Programming for Data Analysis  
 
@@ -15,7 +15,7 @@ September 2017 - March 2022
 
 ## Process Engineer (Packing) cum Project Coordinator (Customer Service & Logistics)  
 *Unilever*  
-May 2023 - May 2024  
+May 2023 - Mar 2024  
 *Skills: Data Visualization, Digital Product Development Process*  
 - Analyzed and built Power BI dashboards to monitor plant’s KPIs (OEE, raw-packaging-material waste, working compliances), warehouse & logistics activities (inbound & outbound truck tracking, delivery status, materials readiness)  
 - Input and consolidated flows of production and scheduling as requirements for development of the AI-powered production scheduling optimizer  
